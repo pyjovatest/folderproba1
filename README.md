@@ -1,2 +1,2 @@
 # folderproba1
-tertiranje
+tertiranje i ucenje
