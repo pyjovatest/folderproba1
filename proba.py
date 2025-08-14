@@ -1,1 +1,1 @@
-
+print("Zdravo Majstore)
