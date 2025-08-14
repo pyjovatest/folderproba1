@@ -1,0 +1,2 @@
+# folderproba1
+tertiranje
